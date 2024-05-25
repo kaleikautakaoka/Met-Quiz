@@ -1,0 +1,15 @@
+nav {
+    list-style: none;
+    background-color: #0054a4;
+}
+
+nav a {
+    color: #ffff;
+    font-style: inherit;
+    padding: 10%;
+    text-decoration: none;
+}
+
+.mainCard {
+    color: aqua;
+}
